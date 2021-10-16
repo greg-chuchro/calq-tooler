@@ -1,6 +1,6 @@
 ﻿#pragma warning disable CS0649
 
-namespace Calq.ToolerTest {
+namespace Ghbvft6.Calq.ToolerTest {
     class TestTool {
 
         public class Inner {
