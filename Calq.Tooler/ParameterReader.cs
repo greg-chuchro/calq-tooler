@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace Calq.Tooler {
+namespace Ghbvft6.Calq.Tooler {
     public class ParameterReader : ReaderBase {
 
         IEnumerable<ParameterInfo> parameters;
