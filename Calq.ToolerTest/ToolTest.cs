@@ -1,8 +1,8 @@
-using Calq.Tooler;
+using Ghbvft6.Calq.Tooler;
 using System;
 using Xunit;
 
-namespace Calq.ToolerTest {
+namespace Ghbvft6.Calq.ToolerTest {
     public class ToolTest {
         [Fact]
         public void Test1() {

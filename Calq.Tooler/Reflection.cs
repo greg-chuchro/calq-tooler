@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Calq.Tooler {
+namespace Ghbvft6.Calq.Tooler {
     internal static class Reflection {
         public static object? GetFieldOrPropertyValue(object obj, string fieldOrPropertyName) {
             var type = obj.GetType();

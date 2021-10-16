@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Calq.Tooler {
+namespace Ghbvft6.Calq.Tooler {
     public class Tool {
 
         public static object? Execute(object instance, string[] args) {
