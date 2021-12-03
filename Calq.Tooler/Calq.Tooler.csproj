@@ -5,11 +5,12 @@
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>Ghbvft6.Calq.Tooler</RootNamespace>
     <PackageId>Ghbvft6.Calq.Tooler</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Ghbvft6.Calq.Options" Version="0.1.0" />
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="all"/>
   </ItemGroup>
 
 </Project>
